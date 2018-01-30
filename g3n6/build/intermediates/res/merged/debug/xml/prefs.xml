@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<CheckBoxPreference
+    android:key="brokenEnabled"
+    android:title="@string/brokenEnabled"
+    android:defaultValue="true">
+</CheckBoxPreference>
+<CheckBoxPreference
+    android:key="clearEnabled"
+    android:title="@string/clearEnabled"
+    android:defaultValue="false">
+</CheckBoxPreference>
+</PreferenceScreen>

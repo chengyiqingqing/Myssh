@@ -1,0 +1,4 @@
+#Wed Sep 27 16:47:15 CST 2017
+base.0=F\:\\task9.26\\android-brokenwallpaper\\android-brokenwallpaper\\g3n6\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a0454acd3c0a4b307074c0da07c16e8e0af89476
+renamed.0=classes.dex
+file.0=F\:\\task9.26\\android-brokenwallpaper\\android-brokenwallpaper\\g3n6\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a0454acd3c0a4b307074c0da07c16e8e0af89476\\classes.dex

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrokenWallpaper</string>
+    <string name="brokenEnabled">Activa romper pantalla</string>
+    <string name="clearEnabled">Activa limpiar pantalla</string>
+    <string name="description">BrokenWallpaper</string>
+    <string name="title_activity_broken_wallpaper">Broken Wallpaper</string>
+</resources>

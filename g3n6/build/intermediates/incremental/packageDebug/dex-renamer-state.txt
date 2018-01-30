@@ -1,0 +1,7 @@
+#Wed Sep 27 18:50:55 CST 2017
+base.0=F\:\\task9.26\\android-brokenwallpaper\\android-brokenwallpaper\\g3n6\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2fc2bae6d7b940104cea37268e22423c27b9771
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\task9.26\\android-brokenwallpaper\\android-brokenwallpaper\\g3n6\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_96b5d31cdecc2ab5b2082b97e2ef7380bef6f7fd\\classes.dex
+base.1=F\:\\task9.26\\android-brokenwallpaper\\android-brokenwallpaper\\g3n6\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_96b5d31cdecc2ab5b2082b97e2ef7380bef6f7fd
+file.0=F\:\\task9.26\\android-brokenwallpaper\\android-brokenwallpaper\\g3n6\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2fc2bae6d7b940104cea37268e22423c27b9771\\classes.dex

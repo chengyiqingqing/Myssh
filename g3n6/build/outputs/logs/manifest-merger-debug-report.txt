@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:3:5-69
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Amber\.android\build-cache\03103d82c2dd2327e6d823b828609b489a085981\output\AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+		INJECTED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml
+uses-feature#android.software.live_wallpaper
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:12:9-55
+application
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:15:5-45:19
+	android:label
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:17:9-45
+service#mobi.infolife.ezweahter.livewallpaper.brokenscreen2017.BrokenWallpaperService
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:19:9-34:19
+	android:enabled
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:22:13-35
+	android:label
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:24:13-45
+	android:exported
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:23:13-36
+	android:permission
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:25:13-67
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:20:13-105
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:26:13-28:29
+action#android.service.wallpaper.WallpaperService
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:27:17-85
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:27:25-82
+meta-data#android.service.wallpaper
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:30:13-33:25
+	android:resource
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:32:17-50
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:31:17-57
+activity#mobi.infolife.ezweahter.livewallpaper.brokenscreen2017.BrokenWallpaperActivity
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:39:13-68
+	android:exported
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:37:13-106
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from F:\task9.26\android-brokenwallpaper\android-brokenwallpaper\g3n6\src\main\AndroidManifest.xml:42:27-74
